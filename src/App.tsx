@@ -14,7 +14,7 @@ height:300px;
 
 const CssCodeInput = styled('textarea')`
 width:300px;
-height:300px;
+height:300px; 
 `;
 
 
