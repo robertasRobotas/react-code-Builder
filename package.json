@@ -45,6 +45,7 @@
   },
   "devDependencies": {
     "@types/dompurify": "^2.2.3",
+    "@types/eslint": "^7.28.0",
     "@types/styled-components": "^5.1.13"
   }
 }
